@@ -1,6 +1,6 @@
 # Do Transformer ao Agente
 
-### Um livro temático e cronológico para engenheiros sobre modelos de linguagem, RAG, agentes e ferramentas
+### Um livro temático e cronológico, acessível, sobre modelos de linguagem, RAG, agentes e ferramentas
 
 ---
 

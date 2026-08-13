@@ -454,7 +454,7 @@ HEADER_TEX = r"""\documentclass[10pt,a4paper,oneside,openany]{book}
 \vspace{0.7em}
 {\color{engblueaccent}\rule{0.62\linewidth}{1.2pt}\par}
 \vspace{1.4em}
-{\LARGE Um livro cronológico e prático para engenheiros\par}
+{\LARGE Um livro cronológico e acessível\par}
 {\LARGE sobre modelos de linguagem, RAG, agentes e ferramentas\par}
 \vspace{4cm}
 {\large\itshape Modelo de linguagem + contexto + recuperação + ferramentas\par}
