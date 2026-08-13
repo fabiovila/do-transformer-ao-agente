@@ -1,0 +1,8 @@
+VScode-Workspace.code-workspace
+
+# artefatos de build do PDF
+livro/*.aux
+livro/*.log
+livro/*.out
+livro/*.toc
+livro/*.tex
